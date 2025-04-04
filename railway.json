@@ -1,0 +1,21 @@
+{
+  "build": {
+    "builder": "docker",
+    "image": "node:18-alpine",
+    "settings": {
+      "installCommand": "pnpm install",
+      "buildCommand": "pnpm build",
+      "startCommand": "pnpm start"
+    }
+  },
+  "deploy": {
+    "startCommand": "node server.js",
+    "restartPolicyType": "ON_FAILURE",
+    "restartPolicyMaxRetries": 10
+  },
+  "variables": {
+    "NODE_ENV": "production",
+    "PORT": "3000",
+    "HOSTNAME": "0.0.0.0"
+  }
+}
