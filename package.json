@@ -2,6 +2,7 @@
   "name": "shipany-template-one",
   "version": "1.6.0",
   "private": true,
+  "packageManager": "pnpm@9.1.2",
   "author": "idoubi",
   "homepage": "https://shipany.ai",
   "scripts": {
