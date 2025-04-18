@@ -1,5 +1,5 @@
 {
-  "name": "shipany-template-one",
+  "name": "my-custom-app-name",
   "version": "1.6.0",
   "private": true,
   "packageManager": "pnpm@9.1.2",
