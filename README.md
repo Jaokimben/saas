@@ -1,4 +1,4 @@
-# My Custom Application
+# Factorise
 
 Build your AI SaaS application quickly.
 
@@ -73,4 +73,4 @@ npm run cf:deploy
 
 ## License
 
-- [ShipAny AI SaaS Boilerplate License Agreement](LICENSE)
+- [Factorise AI SaaS Boilerplate License Agreement](LICENSE)

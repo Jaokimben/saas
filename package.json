@@ -1,10 +1,10 @@
 {
-  "name": "my-custom-app-name",
+  "name": "factorise",
   "version": "1.6.0",
   "private": true,
   "packageManager": "pnpm@9.1.2",
   "author": "idoubi",
-  "homepage": "https://shipany.ai",
+  "homepage": "https://factorise.ai",
   "scripts": {
     "dev": "cross-env NODE_NO_WARNINGS=1 next dev --turbopack",
     "build": "next build",
