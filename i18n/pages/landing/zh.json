@@ -1,22 +1,22 @@
 {
   "hero": {
     "brand": {
-      "title": "Factorise",
+      "title": "ShipAny",
       "logo": {
         "src": "/logo.png",
-        "alt": "Factorise"
+        "alt": "ShipAny"
       },
-      "description": "Factorise 是一个用于构建 AI SaaS 创业项目的 NextJS 模板。<br/>通过丰富的模板和组件快速启动。"
+      "description": "ShipAny 是一个用于构建 AI SaaS 创业项目的 NextJS 模板。<br/>通过丰富的模板和组件快速启动。"
     },
-    "highlight_text": "Factorise",
-    "description": "Factorise 是一个用于构建 AI SaaS 创业项目的 NextJS 模板。<br/>通过丰富的模板和组件快速启动。",
+    "highlight_text": "ShipAny",
+    "description": "ShipAny 是一个用于构建 AI SaaS 创业项目的 NextJS 模板。<br/>通过丰富的模板和组件快速启动。",
     "announcement": {
       "title": "新版本",
-      "description": "Factorise v2.0 现已发布！"
+      "description": "ShipAny v2.0 现已发布！"
     }
   },
   "branding": {
-    "title": "Factorise 建立在巨人的肩膀上",
+    "title": "ShipAny 建立在巨人的肩膀上",
     "items": [
       {
         "title": "NextJS",
@@ -38,17 +38,17 @@
   },
   "introduce": {
     "name": "introduce",
-    "title": "什么是 Factorise",
+    "title": "什么是 ShipAny",
     "label": "介绍",
-    "description": "Factorise 是一个用于构建 AI SaaS 创业项目的 NextJS 模板，内置多种模板和组件。",
+    "description": "ShipAny 是一个用于构建 AI SaaS 创业项目的 NextJS 模板，内置多种模板和组件。",
     "image": {
       "src": "/imgs/introduce.png",
-      "alt": "Factorise 介绍"
+      "alt": "ShipAny 介绍"
     }
   },
   "benefit": {
     "name": "benefit",
-    "title": "为什么选择 Factorise",
+    "title": "为什么选择 ShipAny",
     "label": "优势",
     "items": [
       {
@@ -70,20 +70,20 @@
   },
   "usage": {
     "name": "usage",
-    "title": "如何使用 Factorise 启动项目",
+    "title": "如何使用 ShipAny 启动项目",
     "description": "通过三个简单步骤启动您的 AI SaaS 创业项目：",
     "items": [
       {
-        "title": "获取 Factorise",
-        "description": "一次性付款购买 Factorise。查收邮件获取代码和文档。",
+        "title": "获取 ShipAny",
+        "description": "一次性付款购买 ShipAny。查收邮件获取代码和文档。",
         "image": {
           "src": "/imgs/usage-1.png",
-          "alt": "获取 Factorise"
+          "alt": "获取 ShipAny"
         }
       },
       {
         "title": "开始您的项目",
-        "description": "阅读文档并克隆 Factorise 代码。开始构建您的 AI SaaS 创业项目。",
+        "description": "阅读文档并克隆 ShipAny 代码。开始构建您的 AI SaaS 创业项目。",
         "image": {
           "src": "/imgs/usage-2.png",
           "alt": "开始项目"
@@ -101,7 +101,7 @@
   },
   "feature": {
     "name": "feature",
-    "title": "Factorise 核心功能",
+    "title": "ShipAny 核心功能",
     "description": "快速高效启动 AI SaaS 创业所需的一切。",
     "items": [
       {
@@ -128,7 +128,7 @@
   },
   "showcase": {
     "name": "showcase",
-    "title": "使用 Factorise 构建的 AI SaaS 创业项目",
+    "title": "使用 ShipAny 构建的 AI SaaS 创业项目",
     "description": "易于使用，快速发布。",
     "items": [
       {
@@ -159,7 +159,7 @@
   },
   "stats": {
     "label": "统计",
-    "title": "用户喜爱 Factorise",
+    "title": "用户喜爱 ShipAny",
     "description": "因为它易于使用且快速发布。",
     "items": [
       {
@@ -178,7 +178,7 @@
   },
   "pricing": {
     "title": "定价",
-    "description": "获取 Factorise 的所有功能，快速启动您的 AI SaaS 创业项目。",
+    "description": "获取 ShipAny 的所有功能，快速启动您的 AI SaaS 创业项目。",
     "groups": [],
     "items": [
       {
@@ -192,11 +192,11 @@
           "100 积分"
         ],
         "button": {
-          "title": "获取 Factorise",
+          "title": "获取 ShipAny",
           "url": "/#pricing"
         },
         "product_id": "starter",
-        "product_name": "Factorise 模板入门版",
+        "product_name": "ShipAny 模板入门版",
         "credits": 100
       },
       {
@@ -210,11 +210,11 @@
           "200 积分"
         ],
         "button": {
-          "title": "获取 Factorise",
+          "title": "获取 ShipAny",
           "url": "/#pricing"
         },
         "product_id": "standard",
-        "product_name": "Factorise 模板标准版",
+        "product_name": "ShipAny 模板标准版",
         "credits": 200
       },
       {
@@ -228,24 +228,24 @@
           "300 积分"
         ],
         "button": {
-          "title": "获取 Factorise",
+          "title": "获取 ShipAny",
           "url": "/#pricing"
         },
         "product_id": "premium",
-        "product_name": "Factorise 模板高级版",
+        "product_name": "ShipAny 模板高级版",
         "credits": 300
       }
     ]
   },
   "testimonial": {
     "label": "用户评价",
-    "title": "用户如何评价 Factorise",
-    "description": "听听使用 Factorise 启动 AI 创业项目的开发者和创始人怎么说。",
+    "title": "用户如何评价 ShipAny",
+    "description": "听听使用 ShipAny 启动 AI 创业项目的开发者和创始人怎么说。",
     "icon": "GoThumbsup",
     "items": [
       {
         "label": "AIWallpaper.shop 创始人",
-        "description": "Factorise 为我们节省了数月的开发时间。我们仅用 2 天就启动了 AI 壁纸业务，一周内就获得了第一个付费客户！",
+        "description": "ShipAny 为我们节省了数月的开发时间。我们仅用 2 天就启动了 AI 壁纸业务，一周内就获得了第一个付费客户！",
         "image": {
           "src": "/imgs/testimonial-1.png",
           "alt": "AIWallpaper.shop 创始人"
@@ -253,7 +253,7 @@
       },
       {
         "label": "独立开发者",
-        "description": "作为独立开发者，Factorise 给了我所需的一切 - 身份验证、支付、AI 集成和漂亮的 UI。一个周末就启动了我的 SaaS！",
+        "description": "作为独立开发者，ShipAny 给了我所需的一切 - 身份验证、支付、AI 集成和漂亮的 UI。一个周末就启动了我的 SaaS！",
         "image": {
           "src": "/imgs/testimonial-2.png",
           "alt": "独立开发者"
@@ -261,7 +261,7 @@
       },
       {
         "label": "GPTs.works 技术主管",
-        "description": "Factorise 的基础设施非常稳固。我们从 0 扩展到 1 万用户都没碰后端。这是我们 AI 创业最好的投资。",
+        "description": "ShipAny 的基础设施非常稳固。我们从 0 扩展到 1 万用户都没碰后端。这是我们 AI 创业最好的投资。",
         "image": {
           "src": "/imgs/testimonial-3.png",
           "alt": "GPTs.works 技术主管"
@@ -269,7 +269,7 @@
       },
       {
         "label": "创业者",
-        "description": "从想法到上线只用了 3 天！Factorise 的模板和部署工具让我们能够以令人难以置信的速度测试 AI 业务概念。",
+        "description": "从想法到上线只用了 3 天！ShipAny 的模板和部署工具让我们能够以令人难以置信的速度测试 AI 业务概念。",
         "image": {
           "src": "/imgs/testimonial-4.png",
           "alt": "创业者"
@@ -279,78 +279,78 @@
   },
   "faq": {
     "label": "常见问题",
-    "title": "关于 Factorise 的常见问题",
+    "title": "关于 ShipAny 的常见问题",
     "description": "还有其他问题？通过 Discord 或电子邮件联系我们。",
     "items": [
       {
-        "title": "Factorise 究竟是什么，它是如何工作的？",
-        "description": "Factorise 是一个专门为构建 AI SaaS 创业项目设计的综合性 NextJS 模板。它提供即用型模板、基础设施设置和部署工具，帮助您在几小时内而不是几天内启动 AI 业务。"
+        "title": "ShipAny 究竟是什么，它是如何工作的？",
+        "description": "ShipAny 是一个专门为构建 AI SaaS 创业项目设计的综合性 NextJS 模板。它提供即用型模板、基础设施设置和部署工具，帮助您在几小时内而不是几天内启动 AI 业务。"
       },
       {
-        "title": "使用 Factorise 需要高级技术技能吗？",
-        "description": "虽然基本的编程知识会有帮助，但 Factorise 设计得非常开发者友好。我们的模板和文档使您即使不是 AI 或云基础设施专家也能轻松入门。"
+        "title": "使用 ShipAny 需要高级技术技能吗？",
+        "description": "虽然基本的编程知识会有帮助，但 ShipAny 设计得非常开发者友好。我们的模板和文档使您即使不是 AI 或云基础设施专家也能轻松入门。"
       },
       {
-        "title": "我可以用 Factorise 构建什么类型的 AI SaaS？",
-        "description": "Factorise 支持广泛的 AI 应用，从内容生成到数据分析工具。我们的模板涵盖流行用例，如 AI 聊天机器人、内容生成器、图像处理应用等。"
+        "title": "我可以用 ShipAny 构建什么类型的 AI SaaS？",
+        "description": "ShipAny 支持广泛的 AI 应用，从内容生成到数据分析工具。我们的模板涵盖流行用例，如 AI 聊天机器人、内容生成器、图像处理应用等。"
       },
       {
-        "title": "使用 Factorise 通常需要多长时间才能启动？",
-        "description": "使用 Factorise，您可以在几小时内完成工作原型，并在几小时内完成生产就绪的应用。我们的一键部署和预配置基础设施显著缩短了传统的数月开发周期。"
+        "title": "使用 ShipAny 通常需要多长时间才能启动？",
+        "description": "使用 ShipAny，您可以在几小时内完成工作原型，并在几小时内完成生产就绪的应用。我们的一键部署和预配置基础设施显著缩短了传统的数月开发周期。"
       },
       {
-        "title": "Factorise 的基础设施包括什么？",
-        "description": "Factorise 提供完整的基础设施栈，包括身份验证、数据库设置、API 集成、支付处理和可扩展的云部署。一切都按照行业最佳实践预先配置。"
+        "title": "ShipAny 的基础设施包括什么？",
+        "description": "ShipAny 提供完整的基础设施栈，包括身份验证、数据库设置、API 集成、支付处理和可扩展的云部署。一切都按照行业最佳实践预先配置。"
       },
       {
         "title": "我可以自定义模板以匹配我的品牌吗？",
-        "description": "当然可以！所有 Factorise 模板都完全可定制。您可以修改设计、功能和功能性以匹配您的品牌标识和特定业务需求，同时保持强大的底层基础设施。"
+        "description": "当然可以！所有 ShipAny 模板都完全可定制。您可以修改设计、功能和功能性以匹配您的品牌标识和特定业务需求，同时保持强大的底层基础设施。"
       }
     ]
   },
   "cta": {
     "title": "启动您的第一个 AI SaaS 创业项目",
-    "description": "从这里开始，使用 Factorise 启动。",
+    "description": "从这里开始，使用 ShipAny 启动。",
     "buttons": [
       {
-        "title": "获取 Factorise",
-        "url": "https://factorise.ai",
+        "title": "获取 ShipAny",
+        "url": "https://shipany.ai",
         "variant": "primary"
       },
       {
         "title": "查看文档",
-        "url": "https://docs.factorise.ai",
+        "url": "https://docs.shipany.ai",
         "variant": "outline"
       }
     ]
   },
   "footer": {
     "brand": {
-      "title": "Factorise",
-      "description": "Factorise 是一个用于构建 AI SaaS 创业项目的 NextJS 模板。通过丰富的模板和组件快速启动。",
+      "title": "ShipAny",
+      "description": "ShipAny 是一个用于构建 AI SaaS 创业项目的 NextJS 模板。通过丰富的模板和组件快速启动。",
       "logo": {
         "src": "/logo.png",
-        "alt": "Factorise"
+        "alt": "ShipAny"
       },
       "social": [
         {
           "title": "Twitter",
-          "url": "https://twitter.com/factorise",
+          "url": "https://twitter.com/shipany",
           "icon": "GoTwitter"
         },
         {
           "title": "GitHub",
-          "url": "https://github.com/factorise",
+          "url": "https://github.com/shipany",
           "icon": "GoMarkGithub"
         },
         {
           "title": "Discord",
-          "url": "https://discord.gg/factorise",
+          "url": "https://discord.gg/shipany",
           "icon": "GoDiscord"
         }
       ]
     },
-    "copyright": "© 2025 • Factorise 保留所有权利。",
+    "copyright": "© 2025 • ShipAny 保留所有权利。",
     "nav": {
       "product": {
         "title": "产品",
@@ -374,7 +374,7 @@
         "items": [
           {
             "title": "文档",
-            "url": "https://docs.factorise.ai"
+            "url": "https://docs.shipany.ai"
           },
           {
             "title": "博客",
@@ -382,7 +382,7 @@
           },
           {
             "title": "支持",
-            "url": "mailto:support@factorise.ai"
+            "url": "mailto:support@shipany.ai"
           }
         ]
       },

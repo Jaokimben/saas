@@ -1,64 +1,171 @@
 {
-  "metadata": {
-    "title": "Ship Any AI SaaS Startups in hours | Factorise",
-    "description": "Factorise is a NextJS boilerplate for building AI SaaS startups, Ship Fast with a variety of templates and components.",
-    "keywords": "Factorise, AI SaaS Boilerplate, NextJS Boilerplate"
+  "brand": {
+    "name": "ShipAny",
+    "title": "ShipAny",
+    "description": "ShipAny is a NextJS boilerplate for building AI SaaS startups.",
+    "logo": {
+      "src": "/logo.png",
+      "alt": "ShipAny"
+    },
+    "url": "https://shipany.ai",
+    "docs_url": "https://docs.shipany.ai",
+    "support_email": "support@shipany.ai",
+    "social": {
+      "twitter": "https://twitter.com/shipany",
+      "github": "https://github.com/shipany",
+      "discord": "https://discord.gg/shipany"
+    }
   },
-  "home": {
-    "title": "Home",
-    "description": "Factorise is a NextJS boilerplate for building AI SaaS startups, Ship Fast with a variety of templates and components."
+  "auth": {
+    "signin": {
+      "title": "Sign in to ShipAny",
+      "description": "Enter your email below to sign in to your account"
+    },
+    "signup": {
+      "title": "Create an account",
+      "description": "Enter your email below to create your ShipAny account"
+    },
+    "email": "Email",
+    "password": "Password",
+    "email_placeholder": "m@example.com",
+    "password_placeholder": "••••••••",
+    "forgot_password": "Forgot password?",
+    "signin_button": "Sign In with Email",
+    "signup_button": "Sign Up with Email",
+    "continue_with": "Or continue with",
+    "no_account": "Don't have an account?",
+    "have_account": "Already have an account?",
+    "signup_link": "Sign up",
+    "signin_link": "Sign in",
+    "magic_link_sent": "Magic link sent!",
+    "magic_link_description": "We've sent a sign in link to your email. Please check your inbox.",
+    "verify_email": "Verify your email",
+    "verify_email_description": "We've sent a verification email to {email}. Please check your inbox.",
+    "resend_email": "Resend email",
+    "email_verified": "Email verified!",
+    "email_verified_description": "Your email has been successfully verified. You can now sign in to your account."
   },
   "dashboard": {
     "title": "Dashboard",
-    "description": "Your Factorise dashboard"
-  },
-  "orders": {
-    "title": "My Orders",
-    "description": "orders paid with Factorise.",
-    "no_orders": "No orders found"
+    "welcome": "Welcome to ShipAny",
+    "description": "Build your AI SaaS startup with ShipAny",
+    "getting_started": {
+      "title": "Getting Started",
+      "description": "Follow these steps to launch your AI SaaS startup with ShipAny",
+      "steps": [
+        {
+          "title": "Connect your AI API",
+          "description": "Connect OpenAI, Anthropic or other AI APIs"
+        },
+        {
+          "title": "Set up payments",
+          "title": "Set up payments",
+          "description": "Configure Stripe for subscriptions and one-time payments"
+        },
+        {
+          "title": "Customize your app",
+          "description": "Modify the templates to match your brand"
+        },
+        {
+          "title": "Launch your SaaS",
+          "description": "Deploy to Vercel with one click"
+        }
+      ]
+    },
+    "stats": {
+      "title": "Your Stats",
+      "users": "Users",
+      "revenue": "Revenue",
+      "credits": "Credits",
+      "api_usage": "API Usage"
+    },
+    "quick_actions": {
+      "title": "Quick Actions",
+      "new_chat": "New Chat",
+      "generate_content": "Generate Content",
+      "create_image": "Create Image",
+      "settings": "Settings"
+    },
+    "recent_activity": {
+      "title": "Recent Activity",
+      "empty": "No recent activity"
+    }
   },
   "settings": {
     "title": "Settings",
-    "description": "Your Factorise settings"
-  },
-  "profile": {
-    "title": "Profile",
-    "description": "Your Factorise profile"
-  },
-  "billing": {
-    "title": "Billing",
-    "description": "Your Factorise billing"
-  },
-  "api": {
-    "title": "API Keys",
-    "description": "Your Factorise API keys"
-  },
-  "blog": {
-    "title": "Blog",
-    "description": "News, resources, and updates about Factorise",
-    "read_more_text": "Read More"
-  },
-  "affiliate": {
-    "title": "Affiliate",
-    "description": "Your Factorise affiliate program",
-    "invite_code": "Invite Code",
-    "invite_tip": "Invite 1 friend to buy Factorise, reward $50.",
-    "invite_balance": "Invite Reward Balance",
-    "invite_url": "Invite URL",
-    "invite_count": "Invite Count",
-    "invite_reward": "Invite Reward",
-    "update_invite_button": "Save",
-    "no_orders": "You can't invite others before you bought Factorise",
-    "no_affiliates": "You're not allowed to invite others, please contact us to apply for permission."
-  },
-  "error": {
-    "404": {
-      "title": "404",
-      "description": "This page could not be found."
+    "profile": {
+      "title": "Profile",
+      "description": "Update your profile information",
+      "name": "Name",
+      "email": "Email",
+      "avatar": "Avatar",
+      "update_button": "Update Profile"
     },
-    "500": {
-      "title": "500",
-      "description": "Internal server error."
+    "billing": {
+      "title": "Billing",
+      "description": "Manage your subscription and payment methods",
+      "plan": "Plan",
+      "status": "Status",
+      "payment_method": "Payment Method",
+      "update_button": "Update Payment Method",
+      "cancel_button": "Cancel Subscription",
+      "resume_button": "Resume Subscription"
+    },
+    "api": {
+      "title": "API Keys",
+      "description": "Manage your API keys",
+      "generate_button": "Generate New Key",
+      "revoke_button": "Revoke",
+      "copy_button": "Copy",
+      "empty": "No API keys generated yet"
+    },
+    "team": {
+      "title": "Team",
+      "description": "Manage your team members",
+      "invite_button": "Invite Team Member",
+      "empty": "No team members yet"
     }
+  },
+  "errors": {
+    "required": "This field is required",
+    "email": "Please enter a valid email",
+    "password": "Password must be at least 8 characters",
+    "auth": {
+      "invalid_credentials": "Invalid email or password",
+      "email_not_verified": "Please verify your email first",
+      "magic_link_expired": "Magic link expired. Please request a new one.",
+      "too_many_requests": "Too many requests. Please try again later."
+    },
+    "billing": {
+      "payment_failed": "Payment failed. Please update your payment method."
+    },
+    "api": {
+      "limit_reached": "API limit reached. Please upgrade your plan."
+    },
+    "not_found": "Page not found",
+    "server_error": "Something went wrong. Please try again later."
+  },
+  "success": {
+    "profile_updated": "Profile updated successfully",
+    "payment_updated": "Payment method updated successfully",
+    "api_key_generated": "API key generated successfully",
+    "api_key_revoked": "API key revoked successfully",
+    "team_member_invited": "Team member invited successfully"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "chat": "Chat",
+    "generate": "Generate",
+    "images": "Images",
+    "settings": "Settings",
+    "signout": "Sign Out"
+  },
+  "footer": {
+    "copyright": "© 2025 ShipAny. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "docs": "Documentation",
+    "status": "Status",
+    "contact": "Contact"
   }
 }

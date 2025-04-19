@@ -1,22 +1,22 @@
 {
   "hero": {
     "brand": {
-      "title": "Factorise",
+      "title": "ShipAny",
       "logo": {
         "src": "/logo.png",
-        "alt": "Factorise"
+        "alt": "ShipAny"
       },
-      "description": "Factorise is a NextJS boilerplate for building AI SaaS startups.<br/>Ship Fast with a variety of templates and components."
+      "description": "ShipAny is a NextJS boilerplate for building AI SaaS startups.<br/>Ship Fast with a variety of templates and components."
     },
-    "highlight_text": "Factorise",
-    "description": "Factorise is a NextJS boilerplate for building AI SaaS startups.<br/>Ship Fast with a variety of templates and components.",
+    "highlight_text": "ShipAny",
+    "description": "ShipAny is a NextJS boilerplate for building AI SaaS startups.<br/>Ship Fast with a variety of templates and components.",
     "announcement": {
       "title": "New",
-      "description": "Factorise v2.0 is now available!"
+      "description": "ShipAny v2.0 is now available!"
     }
   },
   "branding": {
-    "title": "Factorise is built on the shoulders of giants",
+    "title": "ShipAny is built on the shoulders of giants",
     "items": [
       {
         "title": "NextJS",
@@ -38,17 +38,17 @@
   },
   "introduce": {
     "name": "introduce",
-    "title": "What is Factorise",
+    "title": "What is ShipAny",
     "label": "Introduce",
-    "description": "Factorise is a NextJS boilerplate for building AI SaaS startups. Built in a variety of templates and components.",
+    "description": "ShipAny is a NextJS boilerplate for building AI SaaS startups. Built in a variety of templates and components.",
     "image": {
       "src": "/imgs/introduce.png",
-      "alt": "Factorise Introduce"
+      "alt": "ShipAny Introduce"
     }
   },
   "benefit": {
     "name": "benefit",
-    "title": "Why Choose Factorise",
+    "title": "Why Choose ShipAny",
     "label": "Benefits",
     "items": [
       {
@@ -70,20 +70,20 @@
   },
   "usage": {
     "name": "usage",
-    "title": "How to Launch with Factorise",
+    "title": "How to Launch with ShipAny",
     "description": "Get your AI SaaS startup running in three simple steps:",
     "items": [
       {
-        "title": "Get Factorise",
-        "description": "Buy Factorise with a one-time payment. Check your email for the code and documentation.",
+        "title": "Get ShipAny",
+        "description": "Buy ShipAny with a one-time payment. Check your email for the code and documentation.",
         "image": {
           "src": "/imgs/usage-1.png",
-          "alt": "Get Factorise"
+          "alt": "Get ShipAny"
         }
       },
       {
         "title": "Start Your Project",
-        "description": "Read the documentation and clone the code of Factorise. Start building your AI SaaS startup.",
+        "description": "Read the documentation and clone the code of ShipAny. Start building your AI SaaS startup.",
         "image": {
           "src": "/imgs/usage-2.png",
           "alt": "Start Project"
@@ -101,7 +101,7 @@
   },
   "feature": {
     "name": "feature",
-    "title": "Key Features of Factorise",
+    "title": "Key Features of ShipAny",
     "description": "Everything you need to launch your AI SaaS startup quickly and efficiently.",
     "items": [
       {
@@ -128,7 +128,7 @@
   },
   "showcase": {
     "name": "showcase",
-    "title": "AI SaaS Startups built with Factorise",
+    "title": "AI SaaS Startups built with ShipAny",
     "description": "Easy to use and fast to ship.",
     "items": [
       {
@@ -159,7 +159,7 @@
   },
   "stats": {
     "label": "Stats",
-    "title": "People Love Factorise",
+    "title": "People Love ShipAny",
     "description": "for it's easy to use and fast to ship.",
     "items": [
       {
@@ -178,7 +178,7 @@
   },
   "pricing": {
     "title": "Pricing",
-    "description": "Get all features of Factorise, Ship your AI SaaS startups fast.",
+    "description": "Get all features of ShipAny, Ship your AI SaaS startups fast.",
     "groups": [],
     "items": [
       {
@@ -192,11 +192,11 @@
           "100 credits"
         ],
         "button": {
-          "title": "Get Factorise",
+          "title": "Get ShipAny",
           "url": "/#pricing"
         },
         "product_id": "starter",
-        "product_name": "Factorise Boilerplate Starter",
+        "product_name": "ShipAny Boilerplate Starter",
         "credits": 100
       },
       {
@@ -210,11 +210,11 @@
           "200 credits"
         ],
         "button": {
-          "title": "Get Factorise",
+          "title": "Get ShipAny",
           "url": "/#pricing"
         },
         "product_id": "standard",
-        "product_name": "Factorise Boilerplate Standard",
+        "product_name": "ShipAny Boilerplate Standard",
         "credits": 200
       },
       {
@@ -228,24 +228,24 @@
           "300 credits"
         ],
         "button": {
-          "title": "Get Factorise",
+          "title": "Get ShipAny",
           "url": "/#pricing"
         },
         "product_id": "premium",
-        "product_name": "Factorise Boilerplate Premium",
+        "product_name": "ShipAny Boilerplate Premium",
         "credits": 300
       }
     ]
   },
   "testimonial": {
     "label": "Testimonial",
-    "title": "What Users Say About Factorise",
-    "description": "Hear from developers and founders who launched their AI startups with Factorise.",
+    "title": "What Users Say About ShipAny",
+    "description": "Hear from developers and founders who launched their AI startups with ShipAny.",
     "icon": "GoThumbsup",
     "items": [
       {
         "label": "Founder of AIWallpaper.shop",
-        "description": "Factorise saved us months of development time. We launched our AI wallpaper business in just 2 days and got our first paying customer within a week!",
+        "description": "ShipAny saved us months of development time. We launched our AI wallpaper business in just 2 days and got our first paying customer within a week!",
         "image": {
           "src": "/imgs/testimonial-1.png",
           "alt": "Founder of AIWallpaper.shop"
@@ -253,7 +253,7 @@
       },
       {
         "label": "Solo Developer",
-        "description": "As a solo developer, Factorise gave me everything I needed - auth, payments, AI integration, and beautiful UI. Launched my SaaS in a weekend!",
+        "description": "As a solo developer, ShipAny gave me everything I needed - auth, payments, AI integration, and beautiful UI. Launched my SaaS in a weekend!",
         "image": {
           "src": "/imgs/testimonial-2.png",
           "alt": "Solo Developer"
@@ -261,7 +261,7 @@
       },
       {
         "label": "Tech Lead at GPTs.works",
-        "description": "Factorise's infrastructure is rock-solid. We scaled from 0 to 10k users without touching the backend. Best investment for our AI startup.",
+        "description": "ShipAny's infrastructure is rock-solid. We scaled from 0 to 10k users without touching the backend. Best investment for our AI startup.",
         "image": {
           "src": "/imgs/testimonial-3.png",
           "alt": "Tech Lead at GPTs.works"
@@ -269,7 +269,7 @@
       },
       {
         "label": "Startup Founder",
-        "description": "From idea to launch in 3 days! Factorise's templates and deployment tools made it possible to test our AI business concept incredibly fast.",
+        "description": "From idea to launch in 3 days! ShipAny's templates and deployment tools made it possible to test our AI business concept incredibly fast.",
         "image": {
           "src": "/imgs/testimonial-4.png",
           "alt": "Startup Founder"
@@ -279,78 +279,78 @@
   },
   "faq": {
     "label": "FAQ",
-    "title": "Frequently Asked Questions About Factorise",
+    "title": "Frequently Asked Questions About ShipAny",
     "description": "Have another question? Contact us on Discord or by email.",
     "items": [
       {
-        "title": "What exactly is Factorise and how does it work?",
-        "description": "Factorise is a comprehensive NextJS boilerplate designed specifically for building AI SaaS startups. It provides ready-to-use templates, infrastructure setup, and deployment tools that help you launch your AI business in hours instead of days."
+        "title": "What exactly is ShipAny and how does it work?",
+        "description": "ShipAny is a comprehensive NextJS boilerplate designed specifically for building AI SaaS startups. It provides ready-to-use templates, infrastructure setup, and deployment tools that help you launch your AI business in hours instead of days."
       },
       {
-        "title": "Do I need advanced technical skills to use Factorise?",
-        "description": "While basic programming knowledge is helpful, Factorise is designed to be developer-friendly. Our templates and documentation make it easy to get started, even if you're not an expert in AI or cloud infrastructure."
+        "title": "Do I need advanced technical skills to use ShipAny?",
+        "description": "While basic programming knowledge is helpful, ShipAny is designed to be developer-friendly. Our templates and documentation make it easy to get started, even if you're not an expert in AI or cloud infrastructure."
       },
       {
-        "title": "What types of AI SaaS can I build with Factorise?",
-        "description": "Factorise supports a wide range of AI applications, from content generation to data analysis tools. Our templates cover popular use cases like AI chatbots, content generators, image processing apps, and more."
+        "title": "What types of AI SaaS can I build with ShipAny?",
+        "description": "ShipAny supports a wide range of AI applications, from content generation to data analysis tools. Our templates cover popular use cases like AI chatbots, content generators, image processing apps, and more."
       },
       {
-        "title": "How long does it typically take to launch with Factorise?",
-        "description": "With Factorise, you can have a working prototype in hours and a production-ready application in hours. Our one-click deployment and pre-configured infrastructure significantly reduce the traditional months-long development cycle."
+        "title": "How long does it typically take to launch with ShipAny?",
+        "description": "With ShipAny, you can have a working prototype in hours and a production-ready application in hours. Our one-click deployment and pre-configured infrastructure significantly reduce the traditional months-long development cycle."
       },
       {
-        "title": "What's included in the Factorise infrastructure?",
-        "description": "Factorise provides a complete infrastructure stack including authentication, database setup, API integration, payment processing, and scalable cloud deployment. Everything is pre-configured following industry best practices."
+        "title": "What's included in the ShipAny infrastructure?",
+        "description": "ShipAny provides a complete infrastructure stack including authentication, database setup, API integration, payment processing, and scalable cloud deployment. Everything is pre-configured following industry best practices."
       },
       {
         "title": "Can I customize the templates to match my brand?",
-        "description": "Absolutely! All Factorise templates are fully customizable. You can modify the design, features, and functionality to match your brand identity and specific business requirements while maintaining the robust underlying infrastructure."
+        "description": "Absolutely! All ShipAny templates are fully customizable. You can modify the design, features, and functionality to match your brand identity and specific business requirements while maintaining the robust underlying infrastructure."
       }
     ]
   },
   "cta": {
     "title": "Ship your first AI SaaS Startup",
-    "description": "Start from here, ship with Factorise.",
+    "description": "Start from here, ship with ShipAny.",
     "buttons": [
       {
-        "title": "Get Factorise",
-        "url": "https://factorise.ai",
+        "title": "Get ShipAny",
+        "url": "https://shipany.ai",
         "variant": "primary"
       },
       {
         "title": "View Documentation",
-        "url": "https://docs.factorise.ai",
+        "url": "https://docs.shipany.ai",
         "variant": "outline"
       }
     ]
   },
   "footer": {
     "brand": {
-      "title": "Factorise",
-      "description": "Factorise is a NextJS boilerplate for building AI SaaS startups. Ship Fast with a variety of templates and components.",
+      "title": "ShipAny",
+      "description": "ShipAny is a NextJS boilerplate for building AI SaaS startups. Ship Fast with a variety of templates and components.",
       "logo": {
         "src": "/logo.png",
-        "alt": "Factorise"
+        "alt": "ShipAny"
       },
       "social": [
         {
           "title": "Twitter",
-          "url": "https://twitter.com/factorise",
+          "url": "https://twitter.com/shipany",
           "icon": "GoTwitter"
         },
         {
           "title": "GitHub",
-          "url": "https://github.com/factorise",
+          "url": "https://github.com/shipany",
           "icon": "GoMarkGithub"
         },
         {
           "title": "Discord",
-          "url": "https://discord.gg/factorise",
+          "url": "https://discord.gg/shipany",
           "icon": "GoDiscord"
         }
       ]
     },
-    "copyright": "© 2025 • Factorise All rights reserved.",
+    "copyright": "© 2025 • ShipAny All rights reserved.",
     "nav": {
       "product": {
         "title": "Product",
@@ -374,7 +374,7 @@
         "items": [
           {
             "title": "Documentation",
-            "url": "https://docs.factorise.ai"
+            "url": "https://docs.shipany.ai"
           },
           {
             "title": "Blog",
@@ -382,7 +382,7 @@
           },
           {
             "title": "Support",
-            "url": "mailto:support@factorise.ai"
+            "url": "mailto:support@shipany.ai"
           }
         ]
       },

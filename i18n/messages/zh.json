@@ -1,64 +1,170 @@
 {
-  "metadata": {
-    "title": "几小时内启动任何 AI SaaS 创业项目 | Factorise",
-    "description": "Factorise 是一个用于构建 AI SaaS 创业项目的 NextJS 模板，通过丰富的模板和组件快速启动。",
-    "keywords": "Factorise, AI SaaS 模板, NextJS 模板"
+  "brand": {
+    "name": "ShipAny",
+    "title": "ShipAny",
+    "description": "ShipAny 是一个用于构建 AI SaaS 创业项目的 NextJS 模板。",
+    "logo": {
+      "src": "/logo.png",
+      "alt": "ShipAny"
+    },
+    "url": "https://shipany.ai",
+    "docs_url": "https://docs.shipany.ai",
+    "support_email": "support@shipany.ai",
+    "social": {
+      "twitter": "https://twitter.com/shipany",
+      "github": "https://github.com/shipany",
+      "discord": "https://discord.gg/shipany"
+    }
   },
-  "home": {
-    "title": "首页",
-    "description": "Factorise 是一个用于构建 AI SaaS 创业项目的 NextJS 模板，通过丰富的模板和组件快速启动。"
+  "auth": {
+    "signin": {
+      "title": "登录 ShipAny",
+      "description": "输入您的邮箱以登录您的账户"
+    },
+    "signup": {
+      "title": "创建账户",
+      "description": "输入您的邮箱以创建您的 ShipAny 账户"
+    },
+    "email": "邮箱",
+    "password": "密码",
+    "email_placeholder": "m@example.com",
+    "password_placeholder": "••••••••",
+    "forgot_password": "忘记密码？",
+    "signin_button": "通过邮箱登录",
+    "signup_button": "通过邮箱注册",
+    "continue_with": "或继续使用",
+    "no_account": "没有账户？",
+    "have_account": "已有账户？",
+    "signup_link": "注册",
+    "signin_link": "登录",
+    "magic_link_sent": "魔法链接已发送！",
+    "magic_link_description": "我们已向您的邮箱发送了一个登录链接。请检查您的收件箱。",
+    "verify_email": "验证您的邮箱",
+    "verify_email_description": "我们已向 {email} 发送了一封验证邮件。请检查您的收件箱。",
+    "resend_email": "重新发送邮件",
+    "email_verified": "邮箱已验证！",
+    "email_verified_description": "您的邮箱已成功验证。您现在可以登录您的账户了。"
   },
   "dashboard": {
     "title": "仪表盘",
-    "description": "您的 Factorise 仪表盘"
-  },
-  "orders": {
-    "title": "我的订单",
-    "description": "使用 Factorise 支付的订单",
-    "no_orders": "未找到订单"
+    "welcome": "欢迎使用 ShipAny",
+    "description": "使用 ShipAny 构建您的 AI SaaS 创业项目",
+    "getting_started": {
+      "title": "开始使用",
+      "description": "按照以下步骤使用 ShipAny 启动您的 AI SaaS 创业项目",
+      "steps": [
+        {
+          "title": "连接您的 AI API",
+          "description": "连接 OpenAI、Anthropic 或其他 AI API"
+        },
+        {
+          "title": "设置支付",
+          "description": "配置 Stripe 订阅和一次性支付"
+        },
+        {
+          "title": "自定义您的应用",
+          "description": "修改模板以匹配您的品牌"
+        },
+        {
+          "title": "启动您的 SaaS",
+          "description": "一键部署到 Vercel"
+        }
+      ]
+    },
+    "stats": {
+      "title": "您的统计",
+      "users": "用户",
+      "revenue": "收入",
+      "credits": "积分",
+      "api_usage": "API 使用"
+    },
+    "quick_actions": {
+      "title": "快速操作",
+      "new_chat": "新聊天",
+      "generate_content": "生成内容",
+      "create_image": "创建图片",
+      "settings": "设置"
+    },
+    "recent_activity": {
+      "title": "最近活动",
+      "empty": "无最近活动"
+    }
   },
   "settings": {
     "title": "设置",
-    "description": "您的 Factorise 设置"
-  },
-  "profile": {
-    "title": "个人资料",
-    "description": "您的 Factorise 个人资料"
-  },
-  "billing": {
-    "title": "账单",
-    "description": "您的 Factorise 账单"
-  },
-  "api": {
-    "title": "API 密钥",
-    "description": "您的 Factorise API 密钥"
-  },
-  "blog": {
-    "title": "博客",
-    "description": "关于 Factorise 的新闻、资源和更新",
-    "read_more_text": "阅读更多"
-  },
-  "affiliate": {
-    "title": "推荐计划",
-    "description": "您的 Factorise 推荐计划",
-    "invite_code": "邀请码",
-    "invite_tip": "邀请 1 位朋友购买 Factorise，奖励 ¥50。",
-    "invite_balance": "邀请奖励余额",
-    "invite_url": "邀请链接",
-    "invite_count": "邀请数量",
-    "invite_reward": "邀请奖励",
-    "update_invite_button": "保存",
-    "no_orders": "购买 Factorise 后才能邀请他人",
-    "no_affiliates": "您无权邀请他人，请联系我们申请权限。"
-  },
-  "error": {
-    "404": {
-      "title": "404",
-      "description": "找不到此页面。"
+    "profile": {
+      "title": "个人资料",
+      "description": "更新您的个人资料信息",
+      "name": "姓名",
+      "email": "邮箱",
+      "avatar": "头像",
+      "update_button": "更新个人资料"
     },
-    "500": {
-      "title": "500",
-      "description": "服务器内部错误。"
+    "billing": {
+      "title": "账单",
+      "description": "管理您的订阅和支付方式",
+      "plan": "计划",
+      "status": "状态",
+      "payment_method": "支付方式",
+      "update_button": "更新支付方式",
+      "cancel_button": "取消订阅",
+      "resume_button": "恢复订阅"
+    },
+    "api": {
+      "title": "API 密钥",
+      "description": "管理您的 API 密钥",
+      "generate_button": "生成新密钥",
+      "revoke_button": "撤销",
+      "copy_button": "复制",
+      "empty": "尚未生成 API 密钥"
+    },
+    "team": {
+      "title": "团队",
+      "description": "管理您的团队成员",
+      "invite_button": "邀请团队成员",
+      "empty": "尚无团队成员"
     }
+  },
+  "errors": {
+    "required": "此字段为必填项",
+    "email": "请输入有效的邮箱",
+    "password": "密码至少需要 8 个字符",
+    "auth": {
+      "invalid_credentials": "邮箱或密码无效",
+      "email_not_verified": "请先验证您的邮箱",
+      "magic_link_expired": "魔法链接已过期。请重新请求一个新的。",
+      "too_many_requests": "请求过多。请稍后再试。"
+    },
+    "billing": {
+      "payment_failed": "支付失败。请更新您的支付方式。"
+    },
+    "api": {
+      "limit_reached": "达到 API 限制。请升级您的计划。"
+    },
+    "not_found": "页面未找到",
+    "server_error": "出错了。请稍后再试。"
+  },
+  "success": {
+    "profile_updated": "个人资料更新成功",
+    "payment_updated": "支付方式更新成功",
+    "api_key_generated": "API 密钥生成成功",
+    "api_key_revoked": "API 密钥撤销成功",
+    "team_member_invited": "团队成员邀请成功"
+  },
+  "navigation": {
+    "dashboard": "仪表盘",
+    "chat": "聊天",
+    "generate": "生成",
+    "images": "图片",
+    "settings": "设置",
+    "signout": "退出登录"
+  },
+  "footer": {
+    "copyright": "© 2025 ShipAny。保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "docs": "文档",
+    "status": "状态",
+    "contact": "联系我们"
   }
 }
